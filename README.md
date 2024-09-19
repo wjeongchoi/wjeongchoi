@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![Woojeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=wjeongchoi&theme=dark&show_icons=true)
 <!--
 **wjeongchoi/wjeongchoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
