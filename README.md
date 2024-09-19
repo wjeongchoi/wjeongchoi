@@ -1,6 +1,6 @@
 ## Woojeong Choi's GitHub 👋
 <!--![Woojeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=wjeongchoi&theme=material-palenight&show_icons=true)-->
-<div align=center><h3>My Skills 📚</h3></div>
+<div align=center><h2>My Skills 📚</h2></div>
 <div align=center>
   <img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white" />
